@@ -1,4 +1,11 @@
-### Hi there 👋
+# Bobby Coleman
+## iOS Developer
+
+### About me
+I am an iOS developer currently living in southern New Hampshire and moving to central Texas in July.  I started my career in the US Army as an Air Defense Artillery officer, and transitioned as a civilian to continue my career in operations and project management. I have excelled as a leader, planner, and strategist, but am ready to continue on with the next part of my career in iOS development.
+
+### My Dev Journey
+While I have dabbled in programming throughout the years, self-learning languages like HTML, CSS, Python, Java, and Swift, I started developing apps for iOS as a hobby in early 2022. After realizing I was not satisfied with my current career path, I decided to make a positive change and pursue iOS development full-time. Since then, I have worked tirelessly improving my skills in Swift, SwiftUI, and other supporting languages like JavaScript, React, and React Native. While I wanted to attend an accredited Dev Bootcamp, I did not have the time or the financial resources to do so. Instead, I set myself to a strict, self-paced learning programming and completed the iOS Developer Professional Certification created by Meta and learned from the iOS Dev community.
 
 <!--
 **bobbycoleman-dev/bobbycoleman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
