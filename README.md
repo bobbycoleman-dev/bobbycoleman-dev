@@ -17,7 +17,6 @@ Now, to better market myself and learn more than just iOS, I am a student at Cod
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/84566921-dd7d-4a08-84a8-ced7dd37b4df" width="100" alt = "html">  
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/7ed7e94e-31c6-4526-b01b-c49dac3ce024" width="100" alt = "python">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/0de05327-211d-456f-9711-eff22d98bba7" width="100" alt = "mysql">
-<img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/3d639012-c887-429f-8687-899a3a76a134" width="100" alt = "git">
 </p>
 
 <h3 align="center"> Frameworks </h3>
