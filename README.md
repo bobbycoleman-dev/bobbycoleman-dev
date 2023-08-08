@@ -12,6 +12,7 @@ Now, to better market myself and learn more than just iOS, I am a student at Cod
 <h3 align="center"> Languages </h3>
 
 <p align="center">
+<img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/86b7f2a1-ab2e-44ff-bc07-054e4e40e209" width="100" alt="swift">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/b95c4fcd-206e-4601-a2e5-30048a43006f" width="100" alt="javascript">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/ea063efd-3e11-4f7d-bccb-63f808027a92" width="100" alt = "css">   
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/84566921-dd7d-4a08-84a8-ced7dd37b4df" width="100" alt = "html">  
@@ -34,6 +35,7 @@ Now, to better market myself and learn more than just iOS, I am a student at Cod
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/827137b1-9db2-4f86-9a17-b9f47cf060c7" width="100" alt = "npm">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/a9cc6964-d5f9-4ca5-828c-d94ceb830de5" width="100" alt = "workbench">
 </p>
+
 
 
 
