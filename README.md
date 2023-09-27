@@ -4,8 +4,14 @@
 <h3 align="center"> About Me </h3>
 I am a junior software developer. I started my career in the US Army as an Air Defense Artillery officer, and transitioned as a civilian to continue my career in operations and project management. I have excelled as a leader, planner, and strategist, but am ready to continue on with the next part of my career in softrware development.
 
+<h4 align="center"><a href="https://github.com/bobbycoleman-dev/bobbycoleman-dev/blob/main/Resume_Bobby%20Coleman.pdf">View my Resume</a></h4>
+
+---
+
 <h3 align="center"> My Dev Journey </h3>
 While I have dabbled in programming throughout the years, self-learning languages like HTML, CSS, Python, JavaScript, React Native, and Swift, I started developing apps for iOS as a hobby in early 2022. After realizing I was not satisfied with my current career path, I decided to make a positive change and pursue software development. Now, to better market myself and learn more than just iOS, I am currently a student at Coding Dojo learning full-stack development in Python, JavaScript, and C#/.NET while still expanding my knowledge and skills in Swift.
+
+---
 
 <h3 align="center"> Languages </h3>
 
@@ -41,19 +47,15 @@ While I have dabbled in programming throughout the years, self-learning language
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/a9cc6964-d5f9-4ca5-828c-d94ceb830de5" width="50" alt = "workbench">
 </p>
 
+---
+
+<h3 align="center"> Recent Projects </h3>
+<p align="center"><a href="https://github.com/bobbycoleman-dev/array-v2"> <img src="https://github.com/bobbycoleman-dev/array-v2/blob/main/client/public/profileBanner.png" width="600" alt="array"> </a></p>
+<p align="center">A social media platform for devs to share code build on the MERN tech stack</p>
+
+---
+
+<p align="center"><a href="https://github.com/bobbycoleman-dev/array-v2"> <img src="https://github.com/bobbycoleman-dev/dispatch-pro-flask/blob/main/screenshots/dp-banner.png" width="600" alt="array"> </a></p>
+<p align="center">A delivery scheduling management service built on Python, Flask/Jinja2, and MySQL</p>
 
 
-<!--
-**bobbycoleman-dev/bobbycoleman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
