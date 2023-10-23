@@ -50,6 +50,10 @@ While I have dabbled in programming throughout the years, self-learning language
 ---
 
 <h3 align="center"> Recent Projects </h3>
+
+<p align="center"><a href="https://github.com/bobbycoleman-dev/JobTrack"> <img src="https://github.com/bobbycoleman-dev/JobTrack/blob/main/Banner.jpg" width="600" alt="jobtrack"> </a></p>
+<p align="center">A job application tracking system for jobseekers</p>
+
 <p align="center"><a href="https://github.com/bobbycoleman-dev/array-v2"> <img src="https://github.com/bobbycoleman-dev/array-v2/blob/main/client/public/profileBanner.png" width="600" alt="array"> </a></p>
 <p align="center">A social media platform for devs to share code build on the MERN tech stack</p>
 
