@@ -61,4 +61,8 @@ While I have dabbled in programming throughout the years, self-learning language
 <p align="center"><a href="https://github.com/bobbycoleman-dev/dispatch-pro-flask"> <img src="https://github.com/bobbycoleman-dev/dispatch-pro-flask/blob/main/screenshots/dispatch-pro-banner.jpeg" width="600" alt="array"> </a></p>
 <p align="center">A delivery scheduling management service built on Python, Flask/Jinja2, and MySQL</p>
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=bobbycoleman-dev&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
