@@ -65,6 +65,7 @@ While I have dabbled in programming throughout the years, self-learning language
 
 <h3 align="center"> GitHub Stats </h3>
 <p align="center">
+  
 ![bobbycoleman-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbycoleman-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![bobbycoleman-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobbycoleman-dev&theme=vue-dark&hide_border=true)
