@@ -21,9 +21,11 @@ While I have dabbled in programming throughout the years, self-learning language
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/b95c4fcd-206e-4601-a2e5-30048a43006f" width="50" alt="javascript">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/b8cbb86a-c04c-4fab-936b-fb930d4138f9" width="50" alt = "c-sharp">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/ea063efd-3e11-4f7d-bccb-63f808027a92" width="50" alt = "css">   
-<img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/84566921-dd7d-4a08-84a8-ced7dd37b4df" width="50" alt = "html">  
+<img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/84566921-dd7d-4a08-84a8-ced7dd37b4df" width="50" alt = "html"> 
+</p>
 
-
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbycoleman-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="350" alt = "html">
 </p>
 
 <h3 align="center"> Frameworks, Libraries, Database </h3>
@@ -64,12 +66,13 @@ While I have dabbled in programming throughout the years, self-learning language
 ---
 
 <h3 align="center"> GitHub Stats </h3>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbycoleman-dev&theme=vue-dark&hide_border=true" width="450" alt = "workbench">  
+</p>
 
-  
-![bobbycoleman-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobbycoleman-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=bobbycoleman-dev&label=Profile%20Views&color=3&icon=0&pretty=true" width="200" alt = "workbench">  
+</p>
 
-![bobbycoleman-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bobbycoleman-dev&theme=vue-dark&hide_border=true)
-
-[![](https://visitcount.itsvg.in/api?id=bobbycoleman-dev&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
