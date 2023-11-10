@@ -67,11 +67,11 @@ While I have dabbled in programming throughout the years, self-learning language
 
 <h3 align="center"> GitHub Stats </h3>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbycoleman-dev&theme=vue-dark&hide_border=true" width="450" alt = "workbench">  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbycoleman-dev&theme=vue-dark&hide_border=true" width="450" alt = "streak-stats">  
 </p>
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=bobbycoleman-dev&label=Profile%20Views&color=3&icon=0&pretty=true" width="200" alt = "workbench">  
+<img src="https://visitcount.itsvg.in/api?id=bobbycoleman-dev&label=Profile%20Views&color=3&icon=0&pretty=true" width="200" alt = "language-stats">  
 </p>
 
 
