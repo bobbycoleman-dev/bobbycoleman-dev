@@ -16,13 +16,15 @@ While I have dabbled in programming throughout the years, self-learning language
 <h3 align="center"> Languages </h3>
 
 <p align="center">
-<img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/86b7f2a1-ab2e-44ff-bc07-054e4e40e209" width="50" alt="swift">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/7ed7e94e-31c6-4526-b01b-c49dac3ce024" width="50" alt = "python">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/b95c4fcd-206e-4601-a2e5-30048a43006f" width="50" alt="javascript">
+<img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/c19c1272-4f71-47af-9d8f-8dd860275df9" width="50" alt="typescript">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/b8cbb86a-c04c-4fab-936b-fb930d4138f9" width="50" alt = "c-sharp">
+<img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/86b7f2a1-ab2e-44ff-bc07-054e4e40e209" width="50" alt="swift">
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/ea063efd-3e11-4f7d-bccb-63f808027a92" width="50" alt = "css">   
 <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/84566921-dd7d-4a08-84a8-ced7dd37b4df" width="50" alt = "html"> 
 </p>
+
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbycoleman-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="350" alt = "html">
@@ -30,6 +32,7 @@ While I have dabbled in programming throughout the years, self-learning language
 
 <h3 align="center"> Frameworks, Libraries, Database </h3>
 <p align="center">
+  <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/17b1b156-cc1e-4ef1-8f19-1b678c212dd7" width="50" alt = "django">
   <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/e2a2b582-427a-4d3b-b7f0-c836d95af878" width="50" alt = "flask">
   <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/8564b4b8-20fa-4c2e-8573-79aea1273b31" width="50" alt = "react">
   <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/16ef58be-dc48-4fe3-8c33-b8969fe9512b" width="50" alt = "asp-net-core">
@@ -38,6 +41,7 @@ While I have dabbled in programming throughout the years, self-learning language
   <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/31bcc77d-8625-484d-be34-27e7bf25cdbc" width="50" alt = "mongodb">
   <img src="https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/3fbc9a55-429c-4593-861d-7f2d196280e8" width="50" alt = "boostrap">
 </p>
+
 
 <h3 align="center"> Additional Tools </h3>
 <p align="center">
