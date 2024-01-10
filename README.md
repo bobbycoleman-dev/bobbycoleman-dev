@@ -2,7 +2,7 @@
 ![header-img](https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/ce6e64a0-070f-4a39-b8e7-67bb000c3a05)
 
 <h3 align="center"> About Me </h3>
-I am a junior software developer. I started my career in the US Army as an Air Defense Artillery officer, and transitioned as a civilian to continue my career in operations and project management. I have excelled as a leader, planner, and strategist, but am ready to continue on with the next part of my career in softrware development.
+I am a full stack software developer. I have a diverse background that comprises of project management, operations management, business strategy and execution, and various leadership roles in different industries including the United States Army. I changed careers to software development because it is my true passion. I am here to develop applications that will inspire creativity and reach those who will find significant use in it.
 
 <h4 align="center"><a href="https://github.com/bobbycoleman-dev/bobbycoleman-dev/blob/main/Resume_Bobby%20Coleman.pdf">View my Resume</a></h4>
 
