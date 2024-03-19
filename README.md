@@ -57,12 +57,23 @@ While I have dabbled in programming throughout the years, self-learning language
 
 <h3 align="center"> Recent Projects </h3>
 
+---
+
+<h4 align="center">**CURRENT PROEJCT**</h4>
+<p align="center"><a href="https://github.com/bobbycoleman-dev/MCServerGUI/tree/main">MC Server GUI</a></p>
+<p align="center">A native GUI desktop application to visually manage your Minecraft server hosted on AWS EC2</p>
+
+---
+
 <p align="center"><a href="https://github.com/bobbycoleman-dev/JobTrack"> <img src="https://github.com/bobbycoleman-dev/JobTrack/blob/main/Banner.jpg" width="600" alt="jobtrack"> </a></p>
 <p align="center">A job application tracking system for jobseekers built on React Vite, C#.NET, and MySQL</p>
+
+---
 
 <p align="center"><a href="https://github.com/bobbycoleman-dev/array-v2"> <img src="https://github.com/bobbycoleman-dev/array-v2/blob/main/client/public/profileBanner.png" width="600" alt="array"> </a></p>
 <p align="center">A social media platform for devs to share code build on the MERN tech stack</p>
 
+---
 
 <p align="center"><a href="https://github.com/bobbycoleman-dev/dispatch-pro-flask"> <img src="https://github.com/bobbycoleman-dev/dispatch-pro-flask/blob/main/screenshots/dispatch-pro-banner.jpeg" width="600" alt="array"> </a></p>
 <p align="center">A delivery scheduling management service built on Python, Flask/Jinja2, and MySQL</p>
