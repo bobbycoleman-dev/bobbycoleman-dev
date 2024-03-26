@@ -59,7 +59,7 @@ While I have dabbled in programming throughout the years, self-learning language
 
 ---
 
-<h4 align="center">**CURRENT PROEJCT**</h4>
+<h4 align="center">**CURRENT PROJECT**</h4>
 <p align="center"><a href="https://github.com/bobbycoleman-dev/MCServerGUI/tree/main">MC Server GUI</a></p>
 <p align="center">A native GUI desktop application to visually manage your Minecraft server hosted on AWS EC2</p>
 
