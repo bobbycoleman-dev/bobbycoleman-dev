@@ -2,7 +2,7 @@
 ![header-img](https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/ce6e64a0-070f-4a39-b8e7-67bb000c3a05)
 
 <h3 align="center"> About Me </h3>
-I am a C# SoftwareD developer. I have a diverse background that comprises of project management, operations management, business strategy and execution, and various leadership roles in different industries including the United States Army. I changed careers to software development because it is my true passion. I am here to develop applications that will inspire creativity and reach those who will find significant use in it.
+I am a C# Software Developer. I have a diverse background that comprises of project management, operations management, business strategy and execution, and various leadership roles in different industries including the United States Army. I changed careers to software development because it is my true passion. I am here to develop applications that will inspire creativity and reach those who will find significant use in it.
 
 <h4 align="center"><a href="https://github.com/bobbycoleman-dev/bobbycoleman-dev/blob/main/Resume_Bobby%20Coleman.pdf">View my Resume</a></h4>
 
