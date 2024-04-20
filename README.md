@@ -2,14 +2,14 @@
 ![header-img](https://github.com/bobbycoleman-dev/bobbycoleman-dev/assets/120721976/ce6e64a0-070f-4a39-b8e7-67bb000c3a05)
 
 <h3 align="center"> About Me </h3>
-I am a full stack software developer. I have a diverse background that comprises of project management, operations management, business strategy and execution, and various leadership roles in different industries including the United States Army. I changed careers to software development because it is my true passion. I am here to develop applications that will inspire creativity and reach those who will find significant use in it.
+I am a C# SoftwareD developer. I have a diverse background that comprises of project management, operations management, business strategy and execution, and various leadership roles in different industries including the United States Army. I changed careers to software development because it is my true passion. I am here to develop applications that will inspire creativity and reach those who will find significant use in it.
 
 <h4 align="center"><a href="https://github.com/bobbycoleman-dev/bobbycoleman-dev/blob/main/Resume_Bobby%20Coleman.pdf">View my Resume</a></h4>
 
 ---
 
 <h3 align="center"> My Dev Journey </h3>
-While I have dabbled in programming throughout the years, self-learning languages like HTML, CSS, Python, JavaScript, React Native, and Swift, I started developing apps for iOS as a hobby in early 2022. After realizing I was not satisfied with my current career path, I decided to make a positive change and pursue software development. Now, to better market myself and learn more than just iOS, I am currently a student at Coding Dojo learning full-stack development in Python, JavaScript, and C#/.NET while still expanding my knowledge and skills in Swift.
+While I have dabbled in programming throughout the years, self-learning languages like HTML, CSS, Python, JavaScript, React Native, and Swift, I started developing apps for iOS as a hobby in early 2022. After realizing I was not satisfied with my current career path, I decided to make a positive change and pursue software development. I graduted the Coding Dojo bootcamp where I learned full-stack development in Python, JavaScript, and C#/.NET. I am now a C# Software Developer at Digitech Computer.
 
 ---
 
