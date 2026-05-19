@@ -39,7 +39,3 @@ Building **Milestones Manager**, a private practice management app for Speech La
 
 #### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobbycoleman-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbycoleman-dev&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-</p>
