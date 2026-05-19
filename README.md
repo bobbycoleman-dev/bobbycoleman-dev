@@ -36,6 +36,3 @@ Building **Milestones Manager**, a private practice management app for Speech La
 **[Milestones Manager](https://bobbycoleman-dev.github.io/milestones-manager-releases/)** — A practice management app built for Speech Language Pathologists, currently in pre-release. Built with Tauri, React, TypeScript, and Rust.
 
 ---
-
-#### 📊 GitHub Stats
-
