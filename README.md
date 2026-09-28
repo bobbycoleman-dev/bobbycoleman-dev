@@ -6,7 +6,11 @@ C# Software Developer at Digitech Computer and Rust enthusiast. I build line-of-
 
 #### 🔭 Current Focus
 
-Building **Milestones Manager**, a private practice management app for Speech Language Pathologists, with Tauri + React + TypeScript + Rust. Along the way I'm deepening my Rust knowledge and continuing to sharpen my C# skills.
+Creator and maintainer of [Oxide Terminal](https://github.com/oxide-terminal/oxide), a native terminal emulator for macOS and Linux, written entirely in Rust.
+
+Building **Milestones Manager**, a private practice management app for Speech Language Pathologists, with Tauri + React + TypeScript + Rust. 
+
+Along the way I'm deepening my Rust knowledge and continuing to sharpen my C# skills.
 
 ---
 
