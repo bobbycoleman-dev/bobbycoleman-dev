@@ -6,7 +6,7 @@ C# Software Developer at Digitech Computer and Rust enthusiast. I build line-of-
 
 #### 🔭 Current Focus
 
-Creator and maintainer of [Oxide Terminal](https://github.com/oxide-terminal/oxide), a native terminal emulator for macOS and Linux, written entirely in Rust.
+Creator and maintainer of [OmniPTY](https://github.com/omnipty-terminal/omnipty), a native terminal emulator for macOS and Linux, written entirely in Rust.
 
 Building **Milestones Manager**, a private practice management app for Speech Language Pathologists, with Tauri + React + TypeScript + Rust. 
 
@@ -37,7 +37,7 @@ Along the way I'm deepening my Rust knowledge and continuing to sharpen my C# sk
 
 #### 🚀 Featured Project
 
-**[Oxide](https://oxideterminal.com)** - A native macOS terminal emulator, written entirely in Rust.
+**[OmniPTY](https://omnipty.com)** - A native macOS terminal emulator, written entirely in Rust.
 
 **[Milestones Manager](https://bobbycoleman-dev.github.io/milestones-manager-releases/)** — A practice management app built for Speech Language Pathologists, currently in pre-release. Built with Tauri, React, TypeScript, and Rust.
 
